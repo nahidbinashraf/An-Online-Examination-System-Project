@@ -7,4 +7,4 @@ In student module student can easilt show the exam category, subject which autom
 This application is fully responsive.
 
 
-Database : There is two file of the databse 
+Database : There is two file of the databse .
