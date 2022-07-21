@@ -7,4 +7,9 @@ In student module student can easilt show the exam category, subject which autom
 This application is fully responsive.
 
 
-Database : There is two file of the databse .
+Database : There is two file of the databse . Also you can restore database using only bak file.
+
+Note : For VS2019 or later please open the project and run view in browser. And change the connectionstring in webconfig based on your DB connection
+
+Admin UserName: Admin@gmail.com
+Password: 12345
